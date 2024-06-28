@@ -40,8 +40,8 @@ Here is a demo of the project in action:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/virtual-mouse-control.git
-   cd virtual-mouse-control
+   git clone https://github.com/prashant235913/Virtual-Mouse.git
+   cd Virtual-Mouse
 2. **Install the dependencies:**
 
 3. **Run the code**
