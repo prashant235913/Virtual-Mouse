@@ -23,7 +23,10 @@ The virtual mouse project aims to provide an alternative way of controlling the 
 - **Right Click:** Perform a right click with a different hand gesture.
 - **Scrolling:** Scroll up and down using hand gestures.
 - 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1" frameborder="0" allow="accelerometer; autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Demo
+Here is a demo of the project in action:
+
+[![Watch the video](https://img.youtube.com/vi/zZsKGv2-818/maxresdefault.jpg)](https://youtu.be/zZsKGv2-818)
 
 ## Installation
 
